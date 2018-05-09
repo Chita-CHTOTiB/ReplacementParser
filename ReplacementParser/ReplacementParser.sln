@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReplacementParser", "ReplacementParser\ReplacementParser.csproj", "{C5D7285E-09FD-4B15-947A-9193801C791B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D7285E-09FD-4B15-947A-9193801C791B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D7285E-09FD-4B15-947A-9193801C791B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D7285E-09FD-4B15-947A-9193801C791B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D7285E-09FD-4B15-947A-9193801C791B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D24C3527-4FDB-4403-8ADF-64987F565A8B}
+	EndGlobalSection
+EndGlobal
